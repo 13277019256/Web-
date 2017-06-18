@@ -1,2 +1,2 @@
 # Web-
-this repository is for recording my study trip.
+this repository is for recording my learning journey.
